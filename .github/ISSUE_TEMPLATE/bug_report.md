@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Product**
+Frontend or Admin Frontend?
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
@@ -22,9 +25,6 @@ A clear and concise description of what you expected to happen.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
-
-**Product**
-Frontend or Admin Frontend?
 
 **Setup (please complete the following information):**
  - Device: [e.g. iPhone6 or PC/Mac]
