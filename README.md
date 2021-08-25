@@ -51,6 +51,10 @@ v0.5.0 (MVP Internal Alpha)
   * First and additional persons
 * [Payment method --> BE only]
 * [Billing --> not implemented yet (via Stripe)]
+* Checkout
+* Checkout summary
+* Checkout result
+* [My bookings --> BE only]
 
 ### Account
 * Register
@@ -60,6 +64,15 @@ v0.5.0 (MVP Internal Alpha)
 * Reset password session
 * Update account
 * Update password
+
+### Browse
+* Browse available resources
+* Filter by: Type, date, title, persons
+* [Filter by: Price, equipment, suitability, region/poi/geo etc. --> BE only]
+
+### Resource detail
+* Details
+* [Change pricing, persons and date --> Accomodation only]
 
 ### I18n
 * Currently only DE except for BE which uses EN
